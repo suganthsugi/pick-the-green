@@ -1,6 +1,5 @@
 import { useState ,useRef} from 'react';
 import './App.css';
-import TranslationApp from './TranslationApp';
 
 function App() {
 
